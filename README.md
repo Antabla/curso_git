@@ -1,2 +1,2 @@
 # curso_git
-Quiz de curso de git coursera
+I am editing the README file. Adding some more details about the project description.
